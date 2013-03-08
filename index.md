@@ -1,46 +1,42 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Openkas
+tagline: platform for greenhouse operations management
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+Openkas is a platform for developing operation management software systems 
+for greenhouse horticulture.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+Seamless, standards based integration with other software systems 
+is a requirement 
+instead of an afterthought.
 
-## Update Author Attributes
+### Modules
 
-In `_config.yml` remember to specify your own data:
+At the moment, Openkas consists of the following modules:
+
+ * Configuration Manager
+ * Production Planner, targetting (but not limited to) potted plants production
+
+### Development
+
+Openkas is targets the Microsoft .Net platform, using C#, Asp.Net MVC4 and some Javascript.
+Openkas uses many open source libraries including:
+
+ * Jonathan Oliver's [Event Store](https://github.com/joliver/EventStore)
+ * [Rhino Service Bus](http://www.hibernatingrhinos.com/oss/rhino-service-bus),
+   a service bus for .Net
+ * [Castle Windsor](http://www.castleproject.org)
+
+If you'd like to contribute or use the openkas modules in your own system, 
+please contact us.
     
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
+### Posts
 
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
 
