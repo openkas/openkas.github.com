@@ -30,7 +30,7 @@ Openkas uses many open source libraries including:
  * [Castle Windsor](http://www.castleproject.org)
 
 If you'd like to contribute or use the openkas modules in your own system, 
-please contact us.
+please [contact us](mailto:info@serraict.com).
     
 ### Posts
 
