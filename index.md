@@ -23,9 +23,9 @@ At the moment, Openkas consists of the following modules:
 
 Openkas is targets the Microsoft .Net platform, using C#, Asp.Net MVC4 and some Javascript.
 Openkas uses many open source libraries including 
-Jonathan Oliver's [Event Store](https://github.com/joliver/EventStore)
-, [Rhino Service Bus](http://www.hibernatingrhinos.com/oss/rhino-service-bus) (a service bus for .Net)
-, [Castle Windsor](http://www.castleproject.org)
+Jonathan Oliver's [Event Store](https://github.com/joliver/EventStore), 
+[Rhino Service Bus](http://www.hibernatingrhinos.com/oss/rhino-service-bus) (a service bus for .Net)
+and [Castle Windsor](http://www.castleproject.org)
 
 If you'd like to contribute or use the openkas modules in your own system, 
 please [contact us](mailto:info@serraict.com).
