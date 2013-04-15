@@ -49,14 +49,27 @@
     <div class="container-narrow">
 
       <div class="content">
-        {{ content }}
+      {{ content }}
       </div>
-      <hr>
-      <footer>
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
+      
+      <hr/>
+      
+      <footer>      
+        <div class="socialbar">
+            <div class="socialbuttons">
+                 <iframe src="http://ghbtns.com/github-btn.html?user=openkas&repo=openkas.github.com&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="80" height="20"></iframe>
+                 
+                 <iframe src="http://ghbtns.com/github-btn.html?user=openkas&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="155" height="20"></iframe>
+                        
+                 <iframe src="http://ghbtns.com/github-btn.html?user=serra&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="155" height="20"></iframe>
+            </div>
+        </div>
+
+        <p class="muted small">&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
           with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
           and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
         </p>
+        
       </footer>
 
     </div>
