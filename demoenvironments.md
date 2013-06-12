@@ -19,22 +19,23 @@ There are demo environments available in both Dutch and English.
     <tbody>
         <tr>
             <td>Westlandplant</td>
-            <td>configured</td>
+            <td>
+                <img src="/assets/themes/twitter/img/blank.png" class="flag flag-nl" alt="nl" /> configured</td>
             <td><a href="http://openkas-westlandplant.apphb.com" class="btn btn-success">Go!</a></td>
         </tr>
         <tr>
             <td>J&amp;P ten Have</td>
-            <td>empty</td>
+            <td><img src="/assets/themes/twitter/img/blank.png" class="flag flag-nl" alt="nl" /> empty</td>
             <td><a href="http://openkas-jenp.apphb.com" class="btn">Go!</a></td>
         </tr>
         <tr>
             <td>Fransen Orchids</td>
-            <td>empty</td>
+            <td><img src="/assets/themes/twitter/img/blank.png" class="flag flag-nl" alt="nl" /> empty</td>
             <td><a href="http://openkas-fransen.apphb.com" class="btn">Go!</a></td>
         </tr>
         <tr>
             <td>Potlilium</td>
-            <td>empty</td>
+            <td><img src="/assets/themes/twitter/img/blank.png" class="flag flag-nl" alt="nl" /> empty</td>
             <td><a href="http://openkas-potlilium.apphb.com" class="btn">Go!</a></td>
         </tr>
         <tr>
@@ -42,7 +43,7 @@ There are demo environments available in both Dutch and English.
         </tr>
         <tr>
             <td>Test- and staging environment</td>
-            <td><i class="icon-question-sign"> </i> undefined</td>
+            <td><img src="/assets/themes/twitter/img/blank.png" class="flag flag-gb" alt="nl" /> undefined</td>
             <td><a href="https://appharbor.com/applications/openkas-staging" class="btn btn-warning">Go!</a></td>
         </tr>
     </tbody>
