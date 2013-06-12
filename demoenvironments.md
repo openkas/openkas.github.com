@@ -19,28 +19,31 @@ There are demo environments available in both Dutch and English.
     <tbody>
         <tr>
             <td>Westlandplant</td>
-            <td>geconfigureerd</td>
+            <td>configured</td>
             <td><a href="http://openkas-westlandplant.apphb.com" class="btn btn-success">Go!</a></td>
         </tr>
         <tr>
             <td>J&amp;P ten Have</td>
-            <td>leeg</td>
+            <td>empty</td>
             <td><a href="http://openkas-jenp.apphb.com" class="btn">Go!</a></td>
         </tr>
         <tr>
             <td>Fransen Orchids</td>
-            <td>leeg</td>
+            <td>empty</td>
             <td><a href="http://openkas-fransen.apphb.com" class="btn">Go!</a></td>
         </tr>
         <tr>
             <td>Potlilium</td>
-            <td>leeg</td>
+            <td>empty</td>
             <td><a href="http://openkas-potlilium.apphb.com" class="btn">Go!</a></td>
         </tr>
         <tr>
+            <td colspan="3"> </td>
+        </tr>
+        <tr>
             <td>Test- and staging environment</td>
-            <td><i class="icon-question-sign"></i> </td>
-            <td><a href="https://appharbor.com/applications/openkas-staging" class="btn">Go!</a></td>
+            <td><i class="icon-question-sign"> </i> undefined</td>
+            <td><a href="https://appharbor.com/applications/openkas-staging" class="btn btn-warning">Go!</a></td>
         </tr>
     </tbody>
 </table>
