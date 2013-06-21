@@ -21,7 +21,7 @@ At the moment, Openkas consists of the following modules:
 
 ### Development
 
-Openkas is targets the Microsoft .Net platform, using C#, Asp.Net MVC4 and some Javascript.
+Openkas targets the Microsoft .Net platform, using C#, Asp.Net MVC4 and some Javascript.
 Openkas uses many open source libraries including 
 Jonathan Oliver's [Event Store](https://github.com/joliver/EventStore), 
 [Rhino Service Bus](http://www.hibernatingrhinos.com/oss/rhino-service-bus) (a service bus for .Net)
