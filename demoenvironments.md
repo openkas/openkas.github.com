@@ -7,6 +7,10 @@ description: ""
 
 There are demo environments available in both Dutch and English.
 
+To get the best user experience, use 
+[Mozilla Firefox](http://www.mozilla.org/firefox/new/) or 
+[Google Chrome](http://www.google.com/chrome/).
+
 <table class="table table-striped table-hover">
     <caption>Demo Environments</caption>
     <thead>
