@@ -26,7 +26,7 @@ There are demo environments available in both Dutch and English.
         <tr>
             <td>J&amp;P ten Have</td>
             <td><img src="/assets/themes/twitter/img/blank.png" class="flag flag-nl" alt="nl" /> empty</td>
-            <td><a href="http://openkas-jenp.apphb.com" class="btn">Go!</a></td>
+            <td><a href="http://openkas-jenp.apphb.com" class="btn btn-success">Go!</a></td>
         </tr>
         <tr>
             <td>Fransen Orchids</td>
