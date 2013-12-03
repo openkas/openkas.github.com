@@ -12,7 +12,7 @@ description: ""
 
 
 
-If you'd like to see Openaks in action, please contact <a href="mailto:info@serraict.com">Serra ICT (Marijn)</a>.
+If you'd like to see Openkas in action, please contact <a href="mailto:info@serraict.com">Serra ICT (Marijn)</a>.
 We can quickly set up a testing system for you.
 
 Go to a list of [all demo environments](/demoenvironments).
