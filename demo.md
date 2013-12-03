@@ -44,12 +44,12 @@ To get the best user experience, use
         </tr>
         <tr>
             <td>Fransen Orchids</td>
-            <td><img src="/assets/themes/twitter/img/blank.png" class="flag flag-nl" alt="nl" /> empty</td>
+            <td><img src="/assets/themes/twitter/img/blank.png" class="flag flag-nl" alt="nl" /> configured</td>
             <td><a href="http://openkas-fransen.apphb.com" class="btn btn-success">Go!</a></td>
         </tr>
         <tr>
             <td>Potlilium</td>
-            <td><img src="/assets/themes/twitter/img/blank.png" class="flag flag-nl" alt="nl" /> empty</td>
+            <td><img src="/assets/themes/twitter/img/blank.png" class="flag flag-nl" alt="nl" /> configured</td>
             <td><a href="http://openkas-potlilium.apphb.com" class="btn btn-success">Go!</a></td>
         </tr>
         <tr>
