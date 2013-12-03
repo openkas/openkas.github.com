@@ -35,12 +35,12 @@ To get the best user experience, use
         <tr>
             <td>Fransen Orchids</td>
             <td><img src="/assets/themes/twitter/img/blank.png" class="flag flag-nl" alt="nl" /> empty</td>
-            <td><a href="http://openkas-fransen.apphb.com" class="btn">Go!</a></td>
+            <td><a href="http://openkas-fransen.apphb.com" class="btn btn-success">Go!</a></td>
         </tr>
         <tr>
             <td>Potlilium</td>
             <td><img src="/assets/themes/twitter/img/blank.png" class="flag flag-nl" alt="nl" /> empty</td>
-            <td><a href="http://openkas-potlilium.apphb.com" class="btn">Go!</a></td>
+            <td><a href="http://openkas-potlilium.apphb.com" class="btn btn-success">Go!</a></td>
         </tr>
         <tr>
             <td colspan="3"> </td>
