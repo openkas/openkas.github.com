@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Openkas - introductie en handleiding
-tagline: nl
+title: Openkas - documentatie
+tagline: Handleiding en documentatie in het Nederlands
 ---
 {% include JB/setup %}
 
@@ -11,3 +11,4 @@ tagline: nl
 
 
  [1]: /nl/eerste-kennismaking
+ [requirements]: /nl/systeemeisen
