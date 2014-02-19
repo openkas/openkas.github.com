@@ -21,11 +21,13 @@ maar geef je korte opdrachten aan het programma en laat je het programma het wer
 
 <div class="well">
 
- * Een internetverbinding is noodzakelijk om het testsysteem te kunnen gebruiken.
- * Omdat het testsysteem “in het internet” draait, werkt het langzamer 
-   dan de versie die je straks op je eigen systeem installeert.
- * De web applicatie werkt het beste in Firefox, maar Google Chrome en Safari doen het ook goed.
- * De web applicatie is ook toegankelijk met een tablet of smartphone
+  *Voordat je begint ... *
+
+      * Een internetverbinding is noodzakelijk om het testsysteem te kunnen gebruiken.
+      * Omdat het testsysteem “in het internet” draait, werkt het langzamer 
+       dan de versie die je straks op je eigen systeem installeert.
+      * De web applicatie werkt het beste in Firefox, maar Google Chrome en Safari doen het ook goed.
+      * De web applicatie is ook toegankelijk met een tablet of smartphone
  
 </div> 
  
