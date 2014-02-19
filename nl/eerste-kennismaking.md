@@ -20,15 +20,13 @@ Daarom vind je zo min mogelijk grote lijsten met gegevens waarin je aanpassingen
 maar geef je korte opdrachten aan het programma en laat je het programma het werk doen. Je vertelt het programma wat het moet doen.
 
 <div class="well">
-
-  *Voordat je begint ... *
-
-      * Een internetverbinding is noodzakelijk om het testsysteem te kunnen gebruiken.
-      * Omdat het testsysteem “in het internet” draait, werkt het langzamer 
-       dan de versie die je straks op je eigen systeem installeert.
-      * De web applicatie werkt het beste in Firefox, maar Google Chrome en Safari doen het ook goed.
-      * De web applicatie is ook toegankelijk met een tablet of smartphone
- 
+  <ul>
+      <li>Een internetverbinding is noodzakelijk om het testsysteem te kunnen gebruiken.</li>
+      <li>Omdat het testsysteem “in het internet” draait, werkt het langzamer.
+       dan de versie die je straks op je eigen systeem installeert.</li>
+      <li>De web applicatie werkt het beste in Firefox, maar Google Chrome en Safari doen het ook goed.</li>
+      <li>De web applicatie is ook toegankelijk met een tablet of smartphone</li>
+   </ul>
 </div> 
  
 ## Aan de slag!
