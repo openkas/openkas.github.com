@@ -31,7 +31,7 @@ maar geef je korte opdrachten aan het programma en laat je het programma het wer
 
 Log in op het systeem
 
- 1. Ga naar http://openkas.nl/demo en ga naar jouw kwekerij. Het kan de eerste keer even duren.
+ 1. Ga naar [http://openkas.nl/demo](http://openkas.nl/demo) en ga naar jouw kwekerij. Het kan de eerste keer even duren.
  1. Klik op “Log in” om in te loggen.
 
 # Systeem configuratie 
@@ -78,7 +78,7 @@ Ga naar `Planner > Teeltschema’s`
 Probeer eens:
 
  * Een teeltschema te wijzigen
- * Een teeltschema te kopieren
+ * Een teeltschema te kopiëren
  * Een teeltschema te verwijderen
  * Te knippen/plakken van de teeltduur gegevens van en naar Excel
 
