@@ -111,4 +111,8 @@ Dit hebben we deze les gedaan:
  * Snel productieorders invoeren in planner
  * Een plan kopiëren.
  
+## Volgende keer ...
+
+De volgende keer gaan we [onze eigen teeltschema's aanpassen](zelfstudie-02-beheer-teeltschemas)
+om nog sneller een plan te kunnen maken, met wisselende teeltduren en aantal planten per container.
  

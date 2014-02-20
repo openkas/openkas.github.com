@@ -2,14 +2,17 @@
 
 layout: page
 
-title: "Eerste kennismaking"
+title: "Zelfstudie 2: gebruik teeltschema's"
 
-description: "Een eerste kennismaking met de Openkas Planner en Configurator"
+description: "Gebruik teeltschema's om per product verschillende dichtdeden en teeltduren te gebruiken."
 
 ---
 
 {% include JB/setup %}
 
+<div class="alert">
+Deze zelfstudie les is nog niet af ... kom later terug voor meer.
+</div>
 
 ### Bekijk de teeltschema’s
 
