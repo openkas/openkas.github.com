@@ -13,9 +13,7 @@ description: ""
 
 
 If you'd like to see Openkas in action, please contact <a href="mailto:info@serraict.com">Serra ICT (Marijn)</a>.
-We can quickly set up a testing system for you.
-
-There are demo environments available in both Dutch and English.
+We can quickly set up a testing system for you. There are demo environments available in both Dutch and English.
 
 To get the best user experience, use 
 [Mozilla Firefox](http://www.mozilla.org/firefox/new/) or 
@@ -35,22 +33,22 @@ To get the best user experience, use
             <td>Westlandplant</td>
             <td>
                 <img src="/assets/themes/twitter/img/blank.png" class="flag flag-nl" alt="nl" /> configured</td>
-            <td><a href="http://openkas-westlandplant.apphb.com" class="btn btn-success">Go!</a></td>
+            <td><a href="http://lai-westlandplnt.cloudapp.net/openkas" class="btn btn-success">Go!</a></td>
         </tr>
         <tr>
             <td>J&amp;P ten Have</td>
             <td><img src="/assets/themes/twitter/img/blank.png" class="flag flag-nl" alt="nl" /> configured</td>
-            <td><a href="http://openkas-jenp.apphb.com" class="btn btn-success">Go!</a></td>
+            <td><a href="http://lai-tenhave-hw.cloudapp.net/openkas" class="btn btn-success">Go!</a></td>
         </tr>
         <tr>
             <td>Fransen Orchids</td>
             <td><img src="/assets/themes/twitter/img/blank.png" class="flag flag-nl" alt="nl" /> configured</td>
-            <td><a href="http://openkas-fransen.apphb.com" class="btn btn-success">Go!</a></td>
+            <td><a href="http://lai-fransen.cloudapp.net/openkas" class="btn btn-success">Go!</a></td>
         </tr>
         <tr>
             <td>Potlilium</td>
             <td><img src="/assets/themes/twitter/img/blank.png" class="flag flag-nl" alt="nl" /> configured</td>
-            <td><a href="http://openkas-potlilium.apphb.com" class="btn btn-success">Go!</a></td>
+            <td><a href="http://lai-potlilium.cloudapp.net/openkas" class="btn btn-success">Go!</a></td>
         </tr>
         <tr>
             <td colspan="3"> </td>
@@ -63,5 +61,3 @@ To get the best user experience, use
     </tbody>
 </table>
 
-Whenever you start using the application, it takes some time to start. 
-This because we're using a free plan on [App Harbor](https://appharbor.com/). 
