@@ -48,7 +48,7 @@ To get the best user experience, use
         <tr>
             <td>Potlilium</td>
             <td><img src="/assets/themes/twitter/img/blank.png" class="flag flag-nl" alt="nl" /> configured</td>
-            <td><a href="http://lai-potlilium.cloudapp.net/openkas" class="btn btn-success">Go!</a></td>
+            <td><a href="http://lai-vdwetering.cloudapp.net/openkas" class="btn btn-success">Go!</a></td>
         </tr>
         <tr>
             <td colspan="3"> </td>
