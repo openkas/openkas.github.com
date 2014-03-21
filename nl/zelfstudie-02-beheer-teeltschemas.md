@@ -10,11 +10,6 @@ description: "Gebruik teeltschema's om per product verschillende dichtdeden en t
 
 {% include JB/setup %}
 
-
-<div class="alert">
-Deze zelfstudie les is nog niet af ... kom later terug voor meer.
-</div>
-
 ## Doelen
 
 Na deze les:
@@ -23,7 +18,7 @@ Na deze les:
  * kun je snel een plan maken op basis van teeltschema's
  * weet je hoe je verschillende producten op basis van hetzelfde productieschema kunt maken
  * weet je wat het verschil is tussen een productieschema en een teeltschema
- * kun je een afweging maken of je voor een nieuw product een nieuw productieschema wilt maken, of dat je een nieuw teeltschema maakt op basis van een bestaand productieschema
+
 
 <div class="alert alert-info">
   Voordat je begint:
@@ -72,3 +67,6 @@ Maak een aantal nieuwe productie orders aan van het zelfde product. Wordt nu wel
 Het aanpassen van een teeltschema heeft *geen* gevolgen voor productie orders die al ingevoerd zijn. Alleen voor productie orders die nieuw worden aangemaakt.
 </div> 
 
+## Teeltduren uit een teeltschema opnieuw toepassen
+
+Ga naar een lijst met productieorders, en selecteer een aantal productie orders die niet waren aangepast. Na selectie verschijnt onderaan de lijst een selectie box met een aantal mogelijkheden. Voer de teeltduren uit het schema opnieuw door.

@@ -9,6 +9,7 @@ tagline: Handleiding en documentatie in het Nederlands
 [Eerste kennismaking][1]
 
 [Zelfstudie 1: maak een plan][2]
+
 [Zelfstudie 2: gebruik teeltschema's][3]
 
 
